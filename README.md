@@ -398,7 +398,7 @@
     - [ ] 2. Neural Network Basics
     - [ ] 3. Shallow Neural Networks
     - [ ] 4. Deep Neural Networks
-  - [ ] Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - [ ] Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
     - [ ] 1. Practical Aspects of Deep Learning
     - [ ] 2. Optimization Algorithms
     - [ ] 3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks
