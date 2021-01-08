@@ -401,7 +401,7 @@
   - [ ] Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     - [ ] 1. Practical Aspects of Deep Learning
     - [ ] 2. Optimization Algorithms
-    - [ ] 3. Hyperparameter tuning, Batch Normalization and Programming Frameworks
+    - [ ] 3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks
   - [ ] Course 3: Structuring Machine Learning Projects
     - [ ] 1. ML Strategy (1)
     - [ ] 2. ML Strategy (2)
