@@ -455,7 +455,7 @@
   - [ ] 14. AWS re:Invent 2017: Containerized Machine Learning on AWS (CON309) `1:03:21`
   - [ ] 15. AWS re:Invent 2017: Introduction to Deep Learning (MCL205) `46:17`
   - [ ] 16. Continuous Delivery with AWS CodePipeline and Amazon SageMaker `25:24`
-  - [ ] 17. AWS re:Invent 2017: Best Practices for Distributed Machine Learning and Predictive A (ABD403) `1:16:16`
+  - [ ] 17. AWS re:Invent 2017: Best Practices for Distributed Machine Learning and Predictive Analytics (ABD403) `1:16:16`
   - [ ] 18. AWS re:Invent 2017: GPS: Enhancing Customer Security Using AI/ML on AWS (GPSTEC311) `50:21`
   - [ ] 19. How to Wrangle Data for Machine Learning on AWS `59:24`
   - [ ] 20. Extract Data from Images and Videos with Amazon Rekognition (Level 300) `26:52`
