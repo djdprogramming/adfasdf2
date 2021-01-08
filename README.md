@@ -474,7 +474,7 @@
   - [ ] 33. Fully Managed Notebook Instances with Amazon SageMaker - a Deep Dive `16:45`
   - [ ] 34. Built-in Machine Learning Algorithms with Amazon SageMaker -  a Deep Dive `15:38`
 - [ ] [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by Google Cloud Training
-  - [ ] Course 1: How Google does Machine Learning
+  - [ ] Course 1: How Google Does Machine Learning
     - [ ] 1. Introduction to Course
     - [ ] 2. What It Means to Be AI First
     - [ ] 3. How Google Does ML
