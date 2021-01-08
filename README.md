@@ -469,7 +469,7 @@
   - [ ] 28. Amazon SageMaker's Built-in Algorithm Webinar Series: Latent Dirichlet Allocation (LDA) `57:25`
   - [ ] 29. Amazon SageMaker's Built-in Algorithm Webinar Series: XGBoost `1:01:02`
   - [ ] 30. Amazon SageMaker's Built-in Algorithm Webinar Series: ResNet `55:56`
-  - [ ] 31. Amazon SageMaker-s Built-in Algorithm Webinar Series: Blazing Text `1:14:37`
+  - [ ] 31. Amazon SageMaker's Built-in Algorithm Webinar Series: Blazing Text `1:14:37`
   - [ ] 32. AWS re:Invent 2017: NEW LAUNCH! Introducing Amazon SageMaker (MCL365) `1:02:08`
   - [ ] 33. Fully Managed Notebook Instances with Amazon SageMaker - a Deep Dive `16:45`
   - [ ] 34. Built-in Machine Learning Algorithms with Amazon SageMaker -  a Deep Dive `15:38`
