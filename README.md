@@ -409,7 +409,7 @@
     - [ ] 1. Foundations of Convolutional Neural Networks
     - [ ] 2. Deep Convolutional Models: Case Studies
     - [ ] 3. Object Detection
-    - [ ] 4. Special applications: Face recognition & Neural style transfer
+    - [ ] 4. Special Applications: Face recognition & Neural style transfer
   - [ ] Course 5: Sequence Models
     - [ ] 1. Recurrent Neural Networks
     - [ ] 2. Natural Language Processing & Word Embeddings
